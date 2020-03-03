@@ -4,6 +4,6 @@ class Dog():
     def __init__(self, breed):
         self.breed = breed
 
-myref = Dog("jungly")
+myref = Dog("new code")
 print(myref.breed)
 print(Dog.dogtype)
